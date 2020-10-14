@@ -1,4 +1,8 @@
-## docker启动hadoop集群
+# docker启动hadoop集群
+
+[参考项目](https://github.com/kiwenlau/hadoop-cluster-docker)
+
+### 使用方法
 1. 执行 ``` bash start-file.sh```启动，
     第一次启动时需要下载镜像会比较慢，之后都会很快启动起来，
     访问宿主机ip:50070可以查看
